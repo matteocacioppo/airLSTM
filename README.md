@@ -18,6 +18,3 @@ The model is a **deep learning-based time series forecaster** built using **PyTo
 ✅ **Fully Connected (Linear) Layer** – Outputs the predicted CO value  
 ✅ **MSE Loss Function** – Measures prediction accuracy  
 ✅ **Adam Optimizer** – Optimizes model weights  
-
-## 📊 Plots
-
